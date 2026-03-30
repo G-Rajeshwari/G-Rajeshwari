@@ -1,42 +1,113 @@
+<div align="center">
+
+# 👾 Govind Reddy Rajeshwari
+
+### `AI & Data Science Student` · Building intelligent systems with Python, LLMs & Analytics
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Turning+data+into+interactive+dashboards;Building+AI+tools+that+solve+real+problems;Multi-Agent+AI+%7C+Streamlit+%7C+LLMs+%7C+Analytics)](https://git.io/typing-svg)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-g--rajeshwari.github.io-00d4ff?style=flat-square&logo=github&logoColor=white)](https://g-rajeshwari.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-govindreddyrajeshwari-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/govindreddyrajeshwari)
+[![Email](https://img.shields.io/badge/Email-govindreddyrajeshwari0%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:govindreddyrajeshwari0@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-View%20on%20FlowCV-7c3aed?style=flat-square&logo=read-the-docs&logoColor=white)](https://flowcv.com/resume/bkmd4chro2wi)
+
+</div>
+
 ---
-name: frontend-design
-description: Create distinctive, production-grade frontend interfaces with high design quality. Use this skill when the user asks to build web components, pages, artifacts, posters, or applications (examples include websites, landing pages, dashboards, React components, HTML/CSS layouts, or when styling/beautifying any web UI). Generates creative, polished code and UI design that avoids generic AI aesthetics.
-license: Complete terms in LICENSE.txt
+
+```python
+class GovindReddyRajeshwari:
+    name       = "Govind Reddy Rajeshwari"
+    location   = "Hyderabad, India 📍"
+    focus      = ["AI", "LLMs", "Data Analytics", "Streamlit Apps"]
+    currently_building = "Sentinel-MAS — Multi-Agent AI Cybersecurity Platform"
+    currently_learning = ["Git & GitHub", "Power BI", "Advanced AI", "Python for Data Analysis"]
+    open_to    = "AI & Data Analytics collaborations"
+    fun_fact   = "I turn messy data into interactive stories ⚡"
+```
+
 ---
 
-This skill guides creation of distinctive, production-grade frontend interfaces that avoid generic "AI slop" aesthetics. Implement real working code with exceptional attention to aesthetic details and creative choices.
+## 🛡️ Featured Project
 
-The user provides frontend requirements: a component, page, application, or interface to build. They may include context about the purpose, audience, or technical constraints.
+### [Sentinel-MAS — Multi-Agent AI Cybersecurity Platform](https://sentinel-mas-rajeshwari.streamlit.app/)
 
-## Design Thinking
+> A live, multi-agent AI platform for real-time cybersecurity threat detection and analytics. Orchestrates intelligent agents using Python & Streamlit.
 
-Before coding, understand the context and commit to a BOLD aesthetic direction:
-- **Purpose**: What problem does this interface solve? Who uses it?
-- **Tone**: Pick an extreme: brutally minimal, maximalist chaos, retro-futuristic, organic/natural, luxury/refined, playful/toy-like, editorial/magazine, brutalist/raw, art deco/geometric, soft/pastel, industrial/utilitarian, etc. There are so many flavors to choose from. Use these for inspiration but design one that is true to the aesthetic direction.
-- **Constraints**: Technical requirements (framework, performance, accessibility).
-- **Differentiation**: What makes this UNFORGETTABLE? What's the one thing someone will remember?
+![Live](https://img.shields.io/badge/Status-Live-10b981?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![AI](https://img.shields.io/badge/Multi--Agent_AI-7c3aed?style=flat-square)
 
-**CRITICAL**: Choose a clear conceptual direction and execute it with precision. Bold maximalism and refined minimalism both work - the key is intentionality, not intensity.
+→ **[View Live App](https://sentinel-mas-rajeshwari.streamlit.app/)** · Looking for help integrating advanced AI threat detection models — contributions welcome!
 
-Then implement working code (HTML/CSS/JS, React, Vue, etc.) that is:
-- Production-grade and functional
-- Visually striking and memorable
-- Cohesive with a clear aesthetic point-of-view
-- Meticulously refined in every detail
+---
 
-## Frontend Aesthetics Guidelines
+## 🚀 What I Do
 
-Focus on:
-- **Typography**: Choose fonts that are beautiful, unique, and interesting. Avoid generic fonts like Arial and Inter; opt instead for distinctive choices that elevate the frontend's aesthetics; unexpected, characterful font choices. Pair a distinctive display font with a refined body font.
-- **Color & Theme**: Commit to a cohesive aesthetic. Use CSS variables for consistency. Dominant colors with sharp accents outperform timid, evenly-distributed palettes.
-- **Motion**: Use animations for effects and micro-interactions. Prioritize CSS-only solutions for HTML. Use Motion library for React when available. Focus on high-impact moments: one well-orchestrated page load with staggered reveals (animation-delay) creates more delight than scattered micro-interactions. Use scroll-triggering and hover states that surprise.
-- **Spatial Composition**: Unexpected layouts. Asymmetry. Overlap. Diagonal flow. Grid-breaking elements. Generous negative space OR controlled density.
-- **Backgrounds & Visual Details**: Create atmosphere and depth rather than defaulting to solid colors. Add contextual effects and textures that match the overall aesthetic. Apply creative forms like gradient meshes, noise textures, geometric patterns, layered transparencies, dramatic shadows, decorative borders, custom cursors, and grain overlays.
+| 🤖 AI & LLM Development | 📊 Data Analytics | 🖥️ Streamlit Apps |
+|:---|:---|:---|
+| Building intelligent agents and pipelines using LLMs, prompt engineering, and multi-agent frameworks | Turning raw datasets into insights with Python, Pandas, Power BI, and interactive dashboards | Rapid deployment of data apps and AI tools — from proof-of-concept to live production |
 
-NEVER use generic AI-generated aesthetics like overused font families (Inter, Roboto, Arial, system fonts), cliched color schemes (particularly purple gradients on white backgrounds), predictable layouts and component patterns, and cookie-cutter design that lacks context-specific character.
+---
 
-Interpret creatively and make unexpected choices that feel genuinely designed for the context. No design should be the same. Vary between light and dark themes, different fonts, different aesthetics. NEVER converge on common choices (Space Grotesk, for example) across generations.
+## 🧰 Tech Stack
 
-**IMPORTANT**: Match implementation complexity to the aesthetic vision. Maximalist designs need elaborate code with extensive animations and effects. Minimalist or refined designs need restraint, precision, and careful attention to spacing, typography, and subtle details. Elegance comes from executing the vision well.
+**AI & Machine Learning**
 
-Remember: Claude is capable of extraordinary creative work. Don't hold back, show what can truly be created when thinking outside the box and committing fully to a distinctive vision.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+**Data & Visualization**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white)
+
+**Tools & Platforms**
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+
+---
+
+## 🤝 Let's Collaborate
+
+I'm actively looking to team up on:
+
+- 🧠 **AI & LLM projects** — agents, chatbots, intelligent pipelines
+- 📊 **Data Analytics dashboards** — Streamlit, Power BI, Python
+- 🔐 **Cybersecurity analytics** — threat detection, log analysis
+- 📈 **Data visualization tools** — interactive charts, real-time data
+
+If it involves Python and interesting data, I'm in. Reach out!
+
+---
+
+## 📬 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/govindreddyrajeshwari)
+[![Email](https://img.shields.io/badge/Email-Say_Hi-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:govindreddyrajeshwari0@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-00d4ff?style=for-the-badge&logo=github&logoColor=white)](https://g-rajeshwari.github.io/)
+[![TopCoder](https://img.shields.io/badge/TopCoder-Profile-f79d2a?style=for-the-badge&logo=topcoder&logoColor=white)](https://www.topcoder.com/members/500070)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=G-Rajeshwari&style=flat-square&color=00d4ff&label=profile+views" />
+  
+  *⚡ Turning data into dashboards · AI into solutions · Ideas into apps*
+</div>
