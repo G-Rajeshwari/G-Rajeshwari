@@ -9,7 +9,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-g--rajeshwari.github.io-00d4ff?style=flat-square&logo=github&logoColor=white)](https://g-rajeshwari.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-govindreddyrajeshwari-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/govindreddyrajeshwari)
 [![Email](https://img.shields.io/badge/Email-govindreddyrajeshwari0%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:govindreddyrajeshwari0@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-View%20on%20FlowCV-7c3aed?style=flat-square&logo=read-the-docs&logoColor=white)](https://flowcv.com/resume/bkmd4chro2wi)
+
 
 </div>
 
